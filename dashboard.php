@@ -17,7 +17,7 @@ if (!isset($_SESSION["user_id"])) {
 
 <div class="container">
 
-    <h1>Welcome!</h1>
+    <h1>Merry Christmas, Please Dont Call</h1>
 
     <p class="subtitle">
         Hello, <?= htmlspecialchars($_SESSION["username"]) ?>!
